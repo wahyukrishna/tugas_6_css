@@ -1,0 +1,32 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+
+.satu{
+  height: 110px;
+  width: 300px;
+  overflow: scroll;
+  border : 12px dotted red;
+  background-color: cyan;
+  padding: 10px 10px 0px 10px;
+}
+
+.dua{
+  height: 110px;
+  width: 300px;
+  overflow: scroll;
+  border : 5px solid green;
+  background-color: cyan;
+  padding: 10px 10px 0px 10px;
+  
+}
+
+.tiga{
+  height: 110px;
+  width: 300px;
+  overflow: scroll;
+  border : 20px dashed blue;
+  background-color: cyan;
+  padding: 10px 10px 0px 10px;
+}
